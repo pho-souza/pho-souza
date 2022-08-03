@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá, meu nome é Pedro Souza.
 
-<!--
-**pho-souza/pho-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho interesse nas seguintes linguagens
+- R
+- Python
+- C
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/pho-souza">
+  <div align-items="center" justify-content="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pho-souza&theme=tokyonight"><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pho-souza&layout=compact&theme=tokyonight">
+  </div>
+</div>
+<div style="display: inline_block"><br>
